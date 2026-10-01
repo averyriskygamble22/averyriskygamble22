@@ -1,7 +1,7 @@
 Hi there 👋
 I build sites for Indian students.
 
-🔗 ExamQuest AI — AI-powered portion completion
+🔗 🔗 [ExamQuest AI](https://examquestai.netlify.app/) — AI-powered portion completion
 
 🌱 Currently working on: ExamQuest AI
 
