@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+I build sites for Indian students.
+
+🔗 ExamQuest AI — AI-powered portion completion
+
+🌱 Currently working on: ExamQuest AI
 
 <!--
 **averyriskygamble22/averyriskygamble22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
