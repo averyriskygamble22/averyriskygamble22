@@ -1,9 +1,9 @@
 Hi there 👋
 I build sites for Indian students.
 
-🔗 [ExamQuest AI](https://examquestai.netlify.app/) — AI-powered portion completion
+🔗 [MyExamQuest](https://myexamquest.com/) 
 
-🌱 Currently working on: ExamQuest AI
+🌱 Currently working on: MyExamQuest
 
 <!--
 **averyriskygamble22/averyriskygamble22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
